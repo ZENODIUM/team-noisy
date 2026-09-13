@@ -1,0 +1,6 @@
+{
+  "name": "team-noisy",
+  "dependencies": {
+    "next": "16.0.0"
+  }
+}
